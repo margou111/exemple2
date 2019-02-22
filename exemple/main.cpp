@@ -42,36 +42,6 @@ void main()
 	cout << "\n";
 	_getch();
 
-	//cours 4
-	//appel d'une fonction comportant un paramètre par valeur
-	//cout << "Cours 4: parametre par valeur\n";
-	//decrireUnAnimal(sonAnimal);
-	//_getch();
-
-	////appel d'une fonction comportant un paramètre par référence
-	//cout << "\nparametre reference\n";
-	//initialiserAnimal(tonAnimal);
-	//tonAnimal.afficherAnimal();
-	//_getch();
-
-	////création d'un objet à l'aide du constructeur par recopie
-	//Animal unNouvelAnimal(sonAnimal);
-
-
-	//cout << "\n\n\nnouvel animal copie:\n";
-	//unNouvelAnimal.afficherAnimal();
-	//_getch();
-
-	////appel d'une fonction surchargée
-	//cout << "\nFonction surchargee:\n";
-	////appelle la 1ère fonction decrireUnAnimal(): celle qui reçoit un seul paramètre de type TAnimal
-	//decrireUnAnimal(tonAnimal);
-	////appelle la 2ième fonction decrireUnAnimal(): celle recevant un paramètre de type TAnimal et 2 int
-	//decrireUnAnimal(tonAnimal, 2, 10);
-	////affichera les données aux coordonnées 2,10
-	//decrireUnAnimal(tonAnimal,2,10);
-	////affichera les données aux coordonnées 5,20 tel que spécifié par les paramètres par défaut
-	//decrireUnAnimal(tonAnimal);
 }
 
 //------------------------------------------------------------------------------------
