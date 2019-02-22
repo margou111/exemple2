@@ -50,10 +50,10 @@ void Animal::setType(string inType)
 	type = inType;
 }
 //
-//void Animal::setNomFamilier(string inNom)
-//{
-//	nomFamilier = inNom;
-//}
+void Animal::setNomFamilier(string inNom)
+{
+	nomFamilier = inNom;
+}
 //
 void Animal::setCri(string inCri)
 {
