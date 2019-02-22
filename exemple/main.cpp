@@ -21,9 +21,6 @@ Animal monAnimalPrefere;
 //programme principal
 
 
-//test pour GIT
-
-
 void main()
 {
 	Animal tonAnimal;
@@ -36,9 +33,6 @@ void main()
 
 	Animal sonAnimal(monAnimalPrefere);
 	sonAnimal.Crier();
-	//sonAnimal.setCri("ouaff - ouaff");
-	//cout << "\nNouveau cri: ";
-	//sonAnimal.crier();
 	cout << "\n";
 	_getch();
 
