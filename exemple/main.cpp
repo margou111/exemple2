@@ -4,6 +4,8 @@
 #include "..\screen\screen.h"
 using namespace std;
 
+//ajout 4 par compteCegep
+
 //ajout 3 par margou 25 mars
 
 //ajout 2 par compteCegep 25 mars
