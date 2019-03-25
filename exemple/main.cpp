@@ -4,6 +4,12 @@
 #include "..\screen\screen.h"
 using namespace std;
 
+
+//ajout 25 mars 
+//
+//
+//
+
 //pour utiliser une classe il faut inclure sa définition
 #include "animal.h" 
 
