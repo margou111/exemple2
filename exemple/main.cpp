@@ -4,6 +4,8 @@
 #include "..\screen\screen.h"
 using namespace std;
 
+
+
 //ajout 5 par compteCegep 25 mars
 
 //ajout 4 par compteCegep
@@ -17,6 +19,9 @@ using namespace std;
 //
 //
 //
+
+
+//ajout7 par margou
 
 //pour utiliser une classe il faut inclure sa définition
 #include "animal.h" 
