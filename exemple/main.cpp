@@ -43,7 +43,7 @@ void main()
 }
 
 void fonction1()
-{
+{//margou
 	cout << "etape2 margou" << endl;
 }
 
@@ -54,8 +54,8 @@ void fonction2()
 }
 
 void fonction3()
-{
-
+{//margou
+	cout << "etape5 margou" << endl;
 }
 
 void fonction4()
