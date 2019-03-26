@@ -4,25 +4,6 @@
 #include "..\screen\screen.h"
 using namespace std;
 
-
-
-//ajout 5 par compteCegep 25 mars
-
-//ajout 4 par compteCegep
-
-//ajout 3 par margou 25 mars
-
-//ajout 2 par compteCegep 25 mars
-
-
-//ajout 25 mars 
-//
-//
-//
-
-
-//ajout7 par margou
-
 //pour utiliser une classe il faut inclure sa définition
 #include "animal.h" 
 
@@ -39,6 +20,10 @@ Animal monAnimalPrefere;
 
 //programme principal
 
+void fonction1();
+void fonction2();
+void fonction3();
+void fonction4();
 
 void main()
 {
@@ -57,6 +42,25 @@ void main()
 
 }
 
+void fonction1()
+{
+
+}
+
+void fonction2()
+{
+
+}
+
+void fonction3()
+{
+
+}
+
+void fonction4()
+{
+
+}
 //------------------------------------------------------------------------------------
 void adopterMonAnimal()
 {
