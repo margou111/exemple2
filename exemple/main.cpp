@@ -56,6 +56,7 @@ void fonction2()
 void fonction3()
 {//margou
 	cout << "etape5 margou" << endl;
+	cout << "etape7 margou" << endl;
 }
 
 void fonction4()
