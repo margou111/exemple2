@@ -50,6 +50,7 @@ void fonction1()
 void fonction2()
 {
 	cout << "etape1 compteCegep" << endl;
+	cout << "etape3 compteCegep" << endl;
 }
 
 void fonction3()
