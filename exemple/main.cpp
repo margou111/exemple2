@@ -63,6 +63,7 @@ void fonction4()
 {
 	cout << "etape4 compteCegep" << endl;
 	cout << "etape6 compteCegep" << endl;
+	cout << "etape8 compteCegep" << endl;
 }
 //------------------------------------------------------------------------------------
 void adopterMonAnimal()
