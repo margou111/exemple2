@@ -44,7 +44,7 @@ void main()
 
 void fonction1()
 {
-
+	cout << "etape2 margou" << endl;
 }
 
 void fonction2()
